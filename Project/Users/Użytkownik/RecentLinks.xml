@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\! Monika\studia\GIT\Flare\Szczury_Rats\Szczury_Rats\Content\A_Opisy\2_Odmiany_szczura_domowego.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\! Monika\studia\GIT\Flare\Szczury_Rats\Szczury_Rats\Content\ZZ_Zasoby\NewSnippet3-Zarejestrowane_Hodowle.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\! Monika\studia\GIT\Flare\Szczury_Rats\Szczury_Rats\Content\_Obrazki\wyposazenie.jpg" />
+    </Dialog>
+</RecentLinks>
